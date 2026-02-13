@@ -38,9 +38,9 @@ BCRYPT_SALT_ROUNDS=10
 
 ---
 
-## ▶️ Run The Project : npm start
+## ▶️ Run The Project :
 
-Start the server:
+Start the server: npm start
 
 
 Server will run on: http://localhost:5000 (eg)

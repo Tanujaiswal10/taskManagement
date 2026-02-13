@@ -1,5 +1,8 @@
 const mongoose = require('mongoose');
 
+
+//Comment Schema
+
 const commentSchema = new mongoose.Schema(
   {
     text: {
@@ -72,7 +75,7 @@ const taskSchema = new mongoose.Schema(
     }
   },
   {
-    timestamps: true // Adds createdAt and updatedAt automatically
+    timestamps: true 
   }
 );
 
